@@ -13,7 +13,7 @@
 		89F0A99627EB6B7B00EAC473 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89F0A99427EB6B7B00EAC473 /* Main.storyboard */; };
 		89F0A99827EB6B7F00EAC473 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89F0A99727EB6B7F00EAC473 /* Assets.xcassets */; };
 		89F0A99B27EB6B7F00EAC473 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89F0A99927EB6B7F00EAC473 /* LaunchScreen.storyboard */; };
-		89F0A9A327EB6D9700EAC473 /* ikinciViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F0A9A227EB6D9700EAC473 /* ikinciViewController.swift */; };
+		89F0A9A327EB6D9700EAC473 /* ClassIsimleriBuyukHarfleBaslar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F0A9A227EB6D9700EAC473 /* ClassIsimleriBuyukHarfleBaslar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		89F0A99727EB6B7F00EAC473 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		89F0A99A27EB6B7F00EAC473 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89F0A99C27EB6B7F00EAC473 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		89F0A9A227EB6D9700EAC473 /* ikinciViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ikinciViewController.swift; sourceTree = "<group>"; };
+		89F0A9A227EB6D9700EAC473 /* ClassIsimleriBuyukHarfleBaslar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassIsimleriBuyukHarfleBaslar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +61,7 @@
 				89F0A98E27EB6B7B00EAC473 /* AppDelegate.swift */,
 				89F0A99027EB6B7B00EAC473 /* SceneDelegate.swift */,
 				89F0A99227EB6B7B00EAC473 /* ViewController.swift */,
-				89F0A9A227EB6D9700EAC473 /* ikinciViewController.swift */,
+				89F0A9A227EB6D9700EAC473 /* ClassIsimleriBuyukHarfleBaslar.swift */,
 				89F0A99427EB6B7B00EAC473 /* Main.storyboard */,
 				89F0A99727EB6B7F00EAC473 /* Assets.xcassets */,
 				89F0A99927EB6B7F00EAC473 /* LaunchScreen.storyboard */,
@@ -144,7 +144,7 @@
 				89F0A99327EB6B7B00EAC473 /* ViewController.swift in Sources */,
 				89F0A98F27EB6B7B00EAC473 /* AppDelegate.swift in Sources */,
 				89F0A99127EB6B7B00EAC473 /* SceneDelegate.swift in Sources */,
-				89F0A9A327EB6D9700EAC473 /* ikinciViewController.swift in Sources */,
+				89F0A9A327EB6D9700EAC473 /* ClassIsimleriBuyukHarfleBaslar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
